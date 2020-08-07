@@ -10,7 +10,7 @@ Proyecto final del curso IBM Data Science. En él realizo un estudio sobre la al
 
 
 # covid19provBot
-Durante la cuarentena, decido hacer un Bot de Telegram que scrapea datos en una Web sobre el Covid-19 en España y los imprime al usuario según la provincia que se haya solicitdado. Además, incorporo el juego piedra-papel-tijera para los más aburridos.
+Durante la cuarentena, decido hacer un Bot de Telegram que scrapea datos en una Web sobre el Covid-19 en España y los imprime al usuario según la provincia que se haya solicitado.
 
 
 ![alt text](https://i.imgur.com/YR588UX.jpg)
