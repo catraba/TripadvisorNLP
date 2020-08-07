@@ -19,7 +19,7 @@ Durante la cuarentena, decido hacer un Bot de Telegram que scrapea datos en una 
 
 
 # FacRecogBOT
-
+El objetivo de este proyecto es comprobar la eficacia de un algoritmo de inteligencia artificial con personas reales, el cual ha aprendido a distinguir humanos creados artificialmente mediante redes neuronales generativas adversarias. Se ha incorporado en un Bot de Telegram cuya tarea es adivinar en qué etapa de la vida (infantil, niñez, adolescente, juvenil, adultez o ancianidad) está una persona a partir de una imagen de su rostro.
 
 
 
