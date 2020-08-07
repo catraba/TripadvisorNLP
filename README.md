@@ -15,3 +15,12 @@ Durante la cuarentena, decido hacer un Bot de Telegram que scrapea datos en una 
 
 
 ![alt text](https://i.imgur.com/zmK7UgE.jpg)
+
+
+
+# FacRecogBOT
+
+
+
+
+![alt text](https://i.imgur.com/1tIAYEr.jpg)
