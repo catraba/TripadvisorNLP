@@ -217,8 +217,7 @@ print('Test accuracy:', evaluacion[1])
 
 # BOT TELEGRAM
 
-token = '1113756889:AAG-0wVQl3BSQ8oKO-ecR-bab_x6ChIwbQA'
-bot = telebot.TeleBot(token)
+bot = telebot.TeleBot('token')
 
 
 @bot.message_handler(commands=['start', 'ayuda'])
