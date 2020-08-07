@@ -20,8 +20,6 @@ from telebot import types
 url = 'https://covid-2019.es/provincias'
 nombre_tabla = 'table'
 
-bot = telebot.TeleBot('1124025553:AAGN5QPcIzBFkakE8Dw7usVPNDSQ_ya5KRQ')
-
 
 
 # FUNCIONES
