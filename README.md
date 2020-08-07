@@ -14,4 +14,4 @@ Durante la cuarentena, decido hacer un Bot de Telegram que scrapea datos en una 
 
 
 
-![alt text](https://i.imgur.com/YR588UX.jpg)
+![alt text](https://i.imgur.com/zmK7UgE.jpg)
