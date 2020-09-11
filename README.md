@@ -24,3 +24,8 @@ El objetivo de este proyecto es comprobar la eficacia de un algoritmo de intelig
 
 
 ![alt text](https://i.imgur.com/1tIAYEr.jpg)
+
+
+
+# trocaderoNLP
+Análisis
