@@ -28,4 +28,4 @@ El objetivo de este proyecto es comprobar la eficacia de un algoritmo de intelig
 
 
 # trocaderoNLP
-Análisis
+Análisis NLP de un beach club en Sotogrande. El restaurante tiene una estética y emplazamiento magníficos aunque de los que tiene la empresa es el peor valorado. En el notebook se realiza un scrapeo de las opiniones que tiene la gente en Tripadvisor. A partir de ahí se hace un análisis de los datos y se busca por palabras claves entre las reviews para así poder valorar mejor el por qué de esas puntuaciones.
