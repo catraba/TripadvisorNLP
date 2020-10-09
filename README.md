@@ -1,14 +1,10 @@
-
-## testingsthings
-
-Primer repositorio. Añadiré los primeros proyectos que afronté de forma individual y con objetivos meramente académicos.
-
-
-
 ## Tabla de contenidos
 * [alergiasMálaga](#alergíasMálaga)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [covid19provBot](#covid19provBot)
+* [FacRecogBOT](#FacRecogBOT)
+* [trocaderoNLP](#trocaderoNLP)
+* [botNLP-telegram](#botNLP-telegram)
+
 
 
 # alergiasMálaga 
