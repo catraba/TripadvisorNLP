@@ -1,7 +1,14 @@
+
 ## testingsthings
 
 Primer repositorio. Añadiré los primeros proyectos que afronté de forma individual y con objetivos meramente académicos.
 
+
+
+## Tabla de contenidos
+* [alergiasMálaga](#alergíasMálaga)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 
 # alergiasMálaga 
